@@ -27,8 +27,11 @@ My name is Scott Gaines. I am currently enrolled as a student at [Turing School 
 
 ### Tidbits
 - Pronouns: he / him
+
 📍 Currently in Denver, CO, and looking to relocate to the UK
+
 🐶 Dog Dad to two amazing retrievers
+
 ☕🎭 Background in the theatre and service industry
 
 <!--
