@@ -26,12 +26,9 @@ My name is Scott Gaines. I am currently enrolled as a student at [Turing School 
 - [LinkedIn](https://www.linkedin.com/in/scottdgaines-fe/)
 
 ### Tidbits
-- Pronouns: he / him
-
-📍 Currently in Denver, CO, and looking to relocate to the UK
-
-🐶 Dog Dad to two amazing retrievers
-
+👤 Pronouns: he / him<br>
+📍 Currently in Denver, CO, and looking to relocate to the UK<br>
+🐶 Dog Dad to two amazing retrievers<br>
 ☕🎭 Background in the theatre and service industry
 
 <!--
