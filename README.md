@@ -1,6 +1,8 @@
-## Welcome!
+## Scott Gaines 
+Front End Developer | Formerly Service Industry Management | People-Focused Creative Thinker
 
-My name is Scott Gaines. I am currently enrolled as a student at [Turing School of Software and Design](https://turing.edu/) for Front End Software Development (anticipating a January 2023 graduation!)
+My name is Scott Gaines, and I am currently enrolled as a student at [Turing School of Software and Design](https://turing.edu/) for Front End Software Development (anticipating a January 2023 graduation!) I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and furthering of the arts and education. 
+
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
