@@ -26,24 +26,8 @@ My name is Scott Gaines. I am currently enrolled as a student at [Turing School 
 - [LinkedIn](https://www.linkedin.com/in/scottdgaines-fe/)
 
 ### Tidbits
-👤 Pronouns: he / him<br>
-📍 Currently in Denver, CO, and looking to relocate to the UK<br>
-🐶 Dog Dad to two amazing retrievers<br>
-☕🎭 Background in the theatre and service industry
+👤  Pronouns: he / him<br>
+📍  Currently in Denver, CO, and interested in relocating to the UK<br>
+🐶  Dog Dad to two amazing retrievers<br>
+☕🎭  Background in the theatre and service industry
 
-<!--
-**scottdgaines/scottdgaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
