@@ -1,4 +1,4 @@
-[![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](/scott-gaines-header.jpg "Header")](https://www.linkedin.com/in/scottdgaines-fe/)
+[![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](/scott-gaines-header-1.jpg "Header")](https://www.linkedin.com/in/scottdgaines-fe/)
 
 
   
