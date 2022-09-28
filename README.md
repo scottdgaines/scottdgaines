@@ -2,7 +2,7 @@
 
 <p align="center">scottdgaines@gmail.com | <a href="https://www.linkedin.com/in/scottdgaines-fe/">LinkedIn</a> | <a href="https://medium.com/@scottdgaines">Blog</a></p>
   
-My name is Scott Gaines, and I am currently enrolled as a student at [Turing School of Software and Design](https://turing.edu/) for Front-End Software Development (anticipating a January 2023 graduation!) I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and furthering of the arts and education. 
+My name is Scott Gaines, and I am currently enrolled as a student at [Turing School of Software and Design](https://turing.edu/) for Front-End Software Development (anticipating a January 2023 graduation!) I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and a furthering of the arts and education. 
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
