@@ -1,11 +1,8 @@
 [![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](/scott-gaines-header-1.jpg "Header")](https://www.linkedin.com/in/scottdgaines-fe/)
 
-
+<p align="center">scottdgaines@gmail.com | <a href="https://www.linkedin.com/in/scottdgaines-fe/">LinkedIn</a> | <a href="https://medium.com/@scottdgaines">Blog</a></p>
   
 My name is Scott Gaines, and I am currently enrolled as a student at [Turing School of Software and Design](https://turing.edu/) for Front-End Software Development (anticipating a January 2023 graduation!) I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and furthering of the arts and education. 
-
-scottdgaines@gmail.com | [LinkedIn](https://www.linkedin.com/in/scottdgaines-fe/) | [Blog](https://medium.com/@scottdgaines)
-
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
