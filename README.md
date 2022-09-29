@@ -1,8 +1,21 @@
 [![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](/scott-gaines-header-1.jpg "Header")](https://www.linkedin.com/in/scottdgaines-fe/)
 
-<p align="center"><a href="mailto:scottdgaines@gmail.com">scottdgaines@gmail.com</a> | <a href="https://www.linkedin.com/in/scottdgaines-fe/">LinkedIn</a> | <a href="https://medium.com/@scottdgaines">Blog</a></p>
+<p align="center"><a href="mailto:scottdgaines@gmail.com">scottdgaines@gmail.com</a> | <a href="https://www.linkedin.com/in/scottdgaines-fe/">LinkedIn</a> | <a href="https://medium.com/@scottdgaines">Blog</a></p> 
 
-
+<p align="center">
+  <a href="mailto:scottdgaines@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/scottdgaines-fe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/scottdgaines">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@scottdgaines">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p> 
   
 My name is Scott Gaines, and I am currently enrolled as a student at [Turing School of Software and Design](https://turing.edu/) for Front-End Software Development (anticipating a January 2023 graduation!) I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and a furthering of the arts and education. 
 
