@@ -47,5 +47,5 @@ My name is Scott Gaines, and I am a Frontend software engineer with a background
 👤  Pronouns: he / him<br>
 📍  Currently in Denver, CO, and interested in relocating to the UK<br>
 🐶  Dog Dad to two amazing retrievers<br>
-☕🎭  Background in the theatre and service industry
+🎓  Turing School of Software and Design, 2207FE
 
