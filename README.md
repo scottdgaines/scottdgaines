@@ -15,7 +15,7 @@
   </a>
 </p> 
   
-My name is Scott Gaines, and I am a Frontend software engineer with a background in the theare and service industry. I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and a furthering of the arts and education. 
+My name is Scott Gaines, and I am a front-end software engineer with a background in the theare and service industry. I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and a furthering of the arts and education. Passionate about Animal Welfare, Accessible Education, Human Rights and Advocacy, and Social Impact work. 
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,9 +38,17 @@ My name is Scott Gaines, and I am a Frontend software engineer with a background
 - Object-Oriented Programming
 - Organization and Efficiency
 - Leadership and Management
-
-<!-- I prioritize planning and organization that lead to thoughtful results, while still being able to think on my feet when necessary -->
-
+<!-- 
+### Featured Repositories
+<a href="https://github.com/The-Readers-Collective">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Readers-Collective&repo=Bookmarked&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/scottdgaines/sidequest">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=scottdgaines&repo=SideQuest&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/scottdgaines/travel-tracker">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=scottdgaines&repo=travel-trackeri&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> -->
 
 
 ### Tidbits
