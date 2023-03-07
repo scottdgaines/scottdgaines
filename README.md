@@ -40,12 +40,7 @@ Other:</br>
 <a href="https://github.com/The-Readers-Collective/bookmarked-ui">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Readers-Collective&repo=bookmarked-ui&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/scottdgaines/sidequest">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=scottdgaines&repo=sidequest&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/scottdgaines/travel-tracker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=scottdgaines&repo=travel-tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 
 
 ### Tidbits
