@@ -9,12 +9,13 @@
   </a>
 </p> 
   
-My name is Scott Gaines, and I am a front-end software engineer with a background in the theare and service industry. I am interested in fostering technology and user-experiences that result in a lasting impact, support for disenfranchised communities and demographics, and a furthering of the arts and education. Passionate about Animal Welfare, Accessible Education, Human Rights and Advocacy, and Social Impact work. 
+My name is Scott Gaines, and I am a front-end software engineer with a background in the theare and service industry. I am passionate about fostering healthy, productive team environments and contributing to technology and user-experiences that result in positive impact, support for disenfranchised communities and demographics, and a furthering of the arts and education. Passionate about Animal Welfare, Accessible Education, Human Rights and Advocacy, and Social Impact work. 
 
 ### Technologies
 Languages / Frameworks: </br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</br>
@@ -35,20 +36,6 @@ Other:</br>
 - Object-Oriented Programming
 - Organization and Efficiency
 - Leadership and Management
-
-### Featured Repositories
-<a href="https://github.com/The-Readers-Collective/bookmarked-ui">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Readers-Collective&repo=bookmarked-ui&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</br>
-<a href="https://github.com/scottdgaines/sidequest">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=scottdgaines&repo=sidequest&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</br>
-<a href="https://github.com/scottdgaines/travel-tracker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=scottdgaines&repo=travel-tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 
 ### Tidbits
 👤  Pronouns: he / him<br>
