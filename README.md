@@ -9,7 +9,7 @@
   </a>
 </p> 
   
-My name is Scott Gaines, and I am a front-end software engineer with a background in the theare and service industry. I am passionate about fostering healthy, productive team environments and contributing to technology that results in a positive impact and an excellent user-experience. I am actively seeking a junior engineer role with a mission-driven company specializing in Animal Welfare, Arts and Education, Human Rights and Advocacy, or Social Impact work!
+A team-oriented software engineer with a strong background in frontend development and a passion for community-focused work that enacts tangible good in the world. Equipped with fifteen years in the theare and service industry management, and eager to contribute to a mission-driven company through creative solutions, adept communication and collaboration skills, and a keen empathy to user needs. 
 
 ### Technologies
 Languages / Frameworks: </br>
