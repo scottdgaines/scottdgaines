@@ -39,7 +39,7 @@ Other:</br>
 
 ### Tidbits
 👤  Pronouns: he / him<br>
-📍  Currently in Denver, CO, and interested in relocating abroad<br>
+📍  Currently in Denver, CO, and interested in relocating for the right role<br>
 🐶  Dog Dad to two amazing retrievers<br>
 🎓  Turing School of Software and Design, 2207FE
 
