@@ -1,4 +1,6 @@
-[![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](/scott-gaines-header-1.jpg "Header")](https://www.linkedin.com/in/scottdgaines-fe/)
+[![Calvin and Hobbes running towards a new adventure with Scott's introductory info superimposed](https://github.com/scottdgaines/scottdgaines/assets/103966650/eab76f1c-8b71-4e65-9449-be653a9a818e)](https://www.linkedin.com/in/scottdgaines-fe/)
+
+
 
 <p align="center">
   <a href="mailto:scottdgaines@gmail.com">
